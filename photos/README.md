@@ -1,1 +1,0 @@
-Directories containing the photos of the radar screen from which the maps can be downloaded from [here](https://drive.google.com/drive/folders/1WPJR5JkLdMTmpazkbPyDFuCxHcOFSyVb?usp=drive_link) (first sesssion) and [here](https://drive.google.com/drive/folders/1HhrKUJ9u2-QCaL8KBZ-bWemg_db63spe?usp=drive_link) (second session). 
