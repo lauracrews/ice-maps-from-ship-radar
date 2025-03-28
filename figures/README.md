@@ -1,1 +1,1 @@
-This directory contains the ice maps produced byb splicing together the geolocated data from the radar images. 
+These subdirectories contain the ice maps produced by splicing together the geolocated data from the radar images. 
