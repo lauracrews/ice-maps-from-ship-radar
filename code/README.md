@@ -4,6 +4,8 @@ This code processes images collected on the 2018 Stratified Ocean Dynamics of th
 
 There were two “sessions” of transects. The second session had a lot of blowing snow or other contamination so was not useful for mapping ice conditions – this can be seen by reviewing the animation Ice_radar_secondSession.mp4.
 
+Directories containing the photos of the radar screen from which the maps can be downloaded from [here](https://drive.google.com/drive/folders/1WPJR5JkLdMTmpazkbPyDFuCxHcOFSyVb?usp=drive_link) (first sesssion) and [here](https://drive.google.com/drive/folders/1HhrKUJ9u2-QCaL8KBZ-bWemg_db63spe?usp=drive_link) (second session). 
+
 ## Code descriptions
 
 `radar_loadImage.m` must be run first. It loads the radar images into a matlab array. It contains information about the screen grab size and converts pixel coordinates to xy coordinates, then subsets the full screen grab to the portion of the images that actually shows the radar screen. It also extracts the lat/lon coordinates of the image centers (ship’s location) from the image file names. 
